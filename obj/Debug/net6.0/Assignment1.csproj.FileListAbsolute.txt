@@ -1,0 +1,30 @@
+D:\SET_lvl6\ATT\Assignment1\bin\Debug\net6.0\Assignment1.exe
+D:\SET_lvl6\ATT\Assignment1\bin\Debug\net6.0\Assignment1.deps.json
+D:\SET_lvl6\ATT\Assignment1\bin\Debug\net6.0\Assignment1.runtimeconfig.json
+D:\SET_lvl6\ATT\Assignment1\bin\Debug\net6.0\Assignment1.dll
+D:\SET_lvl6\ATT\Assignment1\bin\Debug\net6.0\Assignment1.pdb
+D:\SET_lvl6\ATT\Assignment1\obj\Debug\net6.0\Assignment1.csproj.AssemblyReference.cache
+D:\SET_lvl6\ATT\Assignment1\obj\Debug\net6.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SET_lvl6\ATT\Assignment1\obj\Debug\net6.0\Assignment1.AssemblyInfoInputs.cache
+D:\SET_lvl6\ATT\Assignment1\obj\Debug\net6.0\Assignment1.AssemblyInfo.cs
+D:\SET_lvl6\ATT\Assignment1\obj\Debug\net6.0\Assignment1.csproj.CoreCompileInputs.cache
+D:\SET_lvl6\ATT\Assignment1\obj\Debug\net6.0\Assignment1.dll
+D:\SET_lvl6\ATT\Assignment1\obj\Debug\net6.0\refint\Assignment1.dll
+D:\SET_lvl6\ATT\Assignment1\obj\Debug\net6.0\Assignment1.pdb
+D:\SET_lvl6\ATT\Assignment1\obj\Debug\net6.0\Assignment1.genruntimeconfig.cache
+D:\SET_lvl6\ATT\Assignment1\obj\Debug\net6.0\ref\Assignment1.dll
+F:\Download\ptran9102_A1 (2)\Assignment1\bin\Debug\net6.0\Assignment1.exe
+F:\Download\ptran9102_A1 (2)\Assignment1\bin\Debug\net6.0\Assignment1.deps.json
+F:\Download\ptran9102_A1 (2)\Assignment1\bin\Debug\net6.0\Assignment1.runtimeconfig.json
+F:\Download\ptran9102_A1 (2)\Assignment1\bin\Debug\net6.0\Assignment1.dll
+F:\Download\ptran9102_A1 (2)\Assignment1\bin\Debug\net6.0\Assignment1.pdb
+F:\Download\ptran9102_A1 (2)\Assignment1\obj\Debug\net6.0\Assignment1.csproj.AssemblyReference.cache
+F:\Download\ptran9102_A1 (2)\Assignment1\obj\Debug\net6.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Download\ptran9102_A1 (2)\Assignment1\obj\Debug\net6.0\Assignment1.AssemblyInfoInputs.cache
+F:\Download\ptran9102_A1 (2)\Assignment1\obj\Debug\net6.0\Assignment1.AssemblyInfo.cs
+F:\Download\ptran9102_A1 (2)\Assignment1\obj\Debug\net6.0\Assignment1.csproj.CoreCompileInputs.cache
+F:\Download\ptran9102_A1 (2)\Assignment1\obj\Debug\net6.0\Assignment1.dll
+F:\Download\ptran9102_A1 (2)\Assignment1\obj\Debug\net6.0\refint\Assignment1.dll
+F:\Download\ptran9102_A1 (2)\Assignment1\obj\Debug\net6.0\Assignment1.pdb
+F:\Download\ptran9102_A1 (2)\Assignment1\obj\Debug\net6.0\Assignment1.genruntimeconfig.cache
+F:\Download\ptran9102_A1 (2)\Assignment1\obj\Debug\net6.0\ref\Assignment1.dll
